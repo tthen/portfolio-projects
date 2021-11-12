@@ -66,4 +66,14 @@ This is my signal for end of line
 
 =====================================================================
 Nothing must appear below this line
+
+Micro Frontends 
+https://www.freecodecamp.org/news/learn-all-about-micro-frontends/
+
+
+
+Creating APIs for python
+https://www.freecodecamp.org/news/creating-apis-with-python-free-19-hour-course/
+
+
 -->
