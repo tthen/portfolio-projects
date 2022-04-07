@@ -13,7 +13,7 @@ Back-End: Python 3
 Front-End: Bootstrap / Materialize
 
 
-## Environmental Impact Evaluation
+## Environmental Impact Assessment
 
 Environmental Impasct Assessment for any kind of project.
 
