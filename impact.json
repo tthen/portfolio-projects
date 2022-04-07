@@ -1,0 +1,422 @@
+[
+ {
+   "Medio": "Abiotico",
+   "Componente": "Geomorfológico",
+   "Elemento Ambiental": "Morfografía/ Morfodinámica",
+   "Impactos Ambientales": "Alteación en las geoformas del terreno",
+   "Impacto Ambiental Especifico": "Cambio en las geoformas"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Geomorfológico",
+   "Elemento Ambiental": "Morfografía/ Morfodinámica",
+   "Impactos Ambientales": "Alteación en las geoformas del terreno",
+   "Impacto Ambiental Especifico": "Cambio en la topografia"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Geomorfológico",
+   "Elemento Ambiental": "Morfografía/ Morfodinámica",
+   "Impactos Ambientales": "Susceptibilidad a la generación de procesos morfodinámicos",
+   "Impacto Ambiental Especifico": "Generación de procesos morfodinámicos"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Suelos",
+   "Elemento Ambiental": " Características Fisicoquímicas",
+   "Impactos Ambientales": "Alteración a la calidad del suelo",
+   "Impacto Ambiental Especifico": "Cambio en el drenaje interno"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Suelos",
+   "Elemento Ambiental": " Características Fisicoquímicas",
+   "Impactos Ambientales": "Alteración a la calidad del suelo",
+   "Impacto Ambiental Especifico": "Eliminación del  horizonte orgánico del suelo (pérdida de capas de suelo)"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrológico",
+   "Elemento Ambiental": "Calidad",
+   "Impactos Ambientales": "Alteración en la calidad del recurso hídrico superficial",
+   "Impacto Ambiental Especifico": "Cambios en las caracteristicas fisicoquímicas y microbiológicas de las aguas superficiales - Restricciones de uso"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrológico",
+   "Elemento Ambiental": "Calidad",
+   "Impactos Ambientales": "Alteración en la calidad del recurso hídrico superficial",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de sustacias / residuos peligrosos"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrológico",
+   "Elemento Ambiental": "Calidad",
+   "Impactos Ambientales": "Alteración en la calidad del recurso hídrico superficial",
+   "Impacto Ambiental Especifico": "Incremento de los sólidos suspendidos y sedimentables"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrológico",
+   "Elemento Ambiental": "Calidad",
+   "Impactos Ambientales": "Alteración en la calidad del recurso hídrico superficial",
+   "Impacto Ambiental Especifico": "Incremento de residuos sólidos en el agua"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrológico",
+   "Elemento Ambiental": "Caudales",
+   "Impactos Ambientales": "Alteración en la oferta y disponibilidad del recurso hídrico superficial",
+   "Impacto Ambiental Especifico": "Cambio en la oferta hídrica"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrológico",
+   "Elemento Ambiental": "Dinámica Fluvial",
+   "Impactos Ambientales": "Alteración hidrogeomorfológica de la dinámica fluvial y/o del régimen sedimentológico",
+   "Impacto Ambiental Especifico": "Cambios de la red de drenaje"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrogeológico",
+   "Elemento Ambiental": "Calidad Fisicoquímica de aguas subterráneas",
+   "Impactos Ambientales": "Alteración a la calidad del recurso hídrico subterráneo",
+   "Impacto Ambiental Especifico": "Cambio en las caracetrísticas fisicoquímicas y bacteriológicas del agua subterránea"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrogeológico",
+   "Elemento Ambiental": "Calidad Fisicoquímica de aguas subterráneas",
+   "Impactos Ambientales": "Alteración a la calidad del recurso hídrico subterráneo",
+   "Impacto Ambiental Especifico": "Incremento de microorganismos patógenos, coliformes totales y coliformes termotolerantes"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrogeológico",
+   "Elemento Ambiental": "Calidad Fisicoquímica de aguas subterráneas",
+   "Impactos Ambientales": "Alteración a la calidad del recurso hídrico subterráneo",
+   "Impacto Ambiental Especifico": "Incremento de infiltraciones de sustancias peligrosas"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrogeológico",
+   "Elemento Ambiental": "Calidad Fisicoquímica de aguas subterráneas",
+   "Impactos Ambientales": "Alteración a la calidad del recurso hídrico subterráneo",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de residuos peligrosos"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Hidrogeológico",
+   "Elemento Ambiental": "Disponibilidad del recurso hídrico subterráneo",
+   "Impactos Ambientales": "Alteración en la oferta y/o disponibilidad del recurso hídrico subterráneo",
+   "Impacto Ambiental Especifico": "Cambio en los niveles piezométricos (estáticos) de los acuiferos"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Geotecnia",
+   "Elemento Ambiental": "Estabilidad",
+   "Impactos Ambientales": "Alteración de las condiciones geotécnicas",
+   "Impacto Ambiental Especifico": "Cambio en las características geomecanicas de estabilidad del terreno"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Geotecnia",
+   "Elemento Ambiental": "Estabilidad",
+   "Impactos Ambientales": "Alteración de las condiciones geotécnicas",
+   "Impacto Ambiental Especifico": "Desestabilización de taludes"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de metales pesados"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de BTEX"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de VOC"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de gases de efecto invernadero (GEI)"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de hidrocarburos alifáticos"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de contaminnates criterio (PM10, PM2.5, SO2, NO2, O3, CO)"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de hidrocarburos aromaticos policíclicos (PAH)"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de hidrocarburos aromaticos polihalogenados (PHAH)"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de hidrocarburos aromáticos volátiles"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de hidrocarburos totales"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a la calidad del aire",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de partículas suspendidas totales - PST"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Calidad del Aire",
+   "Impactos Ambientales": "Alteración a las propiedades físicas del aire",
+   "Impacto Ambiental Especifico": "Disminución de la Evapotranspiracion"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Olores Ofensivos",
+   "Impactos Ambientales": "Generacion de olores ofensivos",
+   "Impacto Ambiental Especifico": "Incremento de olores ofensivos o desagradables"
+ },
+ {
+   "Medio": "Abiotico",
+   "Componente": "Atmósferico",
+   "Elemento Ambiental": "Nivel de Ruido",
+   "Impactos Ambientales": "Alteración en los niveles de presión sonora",
+   "Impacto Ambiental Especifico": "Incremento de la pesión sonora"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Cobertura",
+   "Elemento Ambiental": "Cobertura vegetal",
+   "Impactos Ambientales": "Alteración a cobertura vegetal",
+   "Impacto Ambiental Especifico": "Cambio en la extensión de la cobertura vegetal"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Cobertura",
+   "Elemento Ambiental": "Cobertura vegetal",
+   "Impactos Ambientales": "Alteración a cobertura vegetal",
+   "Impacto Ambiental Especifico": "Disminución de la cobertura vegetal"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Ecosistema",
+   "Elemento Ambiental": "Ecosistemas",
+   "Impactos Ambientales": "Alteración a ecosistemas terrestres",
+   "Impacto Ambiental Especifico": "Cambio en la composición de las especies"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Ecosistema",
+   "Elemento Ambiental": "Ecosistemas",
+   "Impactos Ambientales": "Alteración a ecosistemas terrestres",
+   "Impacto Ambiental Especifico": "Cambio en la conectividad ecológica funcional"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Ecosistema",
+   "Elemento Ambiental": "Ecosistemas",
+   "Impactos Ambientales": "Alteración a ecosistemas terrestres",
+   "Impacto Ambiental Especifico": "Fragmentación del hábitat"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Ecosistema",
+   "Elemento Ambiental": "Ecosistemas",
+   "Impactos Ambientales": "Alteración a ecosistemas acuáticos",
+   "Impacto Ambiental Especifico": "Incremento de la concentración de hidrocarburos en ecosistemas acuáticos"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Fauna Terrestre",
+   "Elemento Ambiental": "Especies",
+   "Impactos Ambientales": "Alteración a comunidades de fauna terrestre",
+   "Impacto Ambiental Especifico": "Desorientación de las aves"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Fauna Terrestre",
+   "Elemento Ambiental": "Especies",
+   "Impactos Ambientales": "Alteración a comunidades de fauna terrestre",
+   "Impacto Ambiental Especifico": "Incremento de los fenómenos de ahuyentamiento de fauna"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Fauna Terrestre",
+   "Elemento Ambiental": "Especies",
+   "Impactos Ambientales": "Alteración a comunidades de fauna terrestre",
+   "Impacto Ambiental Especifico": "Restricción a la movilidad de la fauna"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Fauna Terrestre",
+   "Elemento Ambiental": "Hábitat",
+   "Impactos Ambientales": "Alteración a comunidades de fauna terrestre",
+   "Impacto Ambiental Especifico": "Disminución del hábitat (Deterioro y/o pérdida del hábitat)"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Flora Terrestre",
+   "Elemento Ambiental": "Especies",
+   "Impactos Ambientales": "Alteración a comunidades de flora",
+   "Impacto Ambiental Especifico": "Disminución del hábitat (Deterioro y/o pérdida del hábitat)"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Flora Terrestre",
+   "Elemento Ambiental": "Especies",
+   "Impactos Ambientales": "Alteración a comunidades de flora",
+   "Impacto Ambiental Especifico": "Introducción de especies arvenses (malezas)"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Flora Terrestre",
+   "Elemento Ambiental": "Especies",
+   "Impactos Ambientales": "Alteración a comunidades de flora",
+   "Impacto Ambiental Especifico": "Sustitución de especies de flora"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Flora Terrestre",
+   "Elemento Ambiental": "Hábitat",
+   "Impactos Ambientales": "Alteración a comunidades de flora",
+   "Impacto Ambiental Especifico": "Disminución del hábitat (Deterioro y/o pérdida del hábitat)"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Fauna Hidrobiota",
+   "Elemento Ambiental": "Especies",
+   "Impactos Ambientales": "Alteración a la hidrobiota incluyendo la fauna acuática",
+   "Impacto Ambiental Especifico": "Bioacumulación de sustancias tóxicas en organismos acuáticos"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Fauna Hidrobiota",
+   "Elemento Ambiental": "Especies",
+   "Impactos Ambientales": "Alteración a la hidrobiota incluyendo la fauna acuática",
+   "Impacto Ambiental Especifico": "Incremento de  los fenómenos de ahuyentamiento de la fauna acuática"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Fauna Hidrobiota",
+   "Elemento Ambiental": "Especies",
+   "Impactos Ambientales": "Alteración a la hidrobiota incluyendo la fauna acuática",
+   "Impacto Ambiental Especifico": "Modificación del hábitat de la fauna acuática"
+ },
+ {
+   "Medio": "Biotico",
+   "Componente": "Fauna Hidrobiota",
+   "Elemento Ambiental": "Hábitat",
+   "Impactos Ambientales": "Alteración a la hidrobiota incluyendo la fauna acuática",
+   "Impacto Ambiental Especifico": "Disminución del hábitat (Deterioro y/o pérdida del hábitat)"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Dimensión Demográfica",
+   "Elemento Ambiental": "Dinámica de la población",
+   "Impactos Ambientales": "Cambio en la dinámica poblacional",
+   "Impacto Ambiental Especifico": "Cambio en la dinámica poblacional"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Dimensión Espacial",
+   "Elemento Ambiental": "Salud",
+   "Impactos Ambientales": "Disminución de la calidad de la salud",
+   "Impacto Ambiental Especifico": "Disminución de la calidad de la salud"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Dimensión Espacial",
+   "Elemento Ambiental": "Incremento transito pesado en el sector",
+   "Impactos Ambientales": "Cambio en el acceso de las comunidades a centros nucleados",
+   "Impacto Ambiental Especifico": "Cambio en el acceso de las comunidades a centros nucleados"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Dimensión Espacial",
+   "Elemento Ambiental": "Incremento transito pesado en el sector",
+   "Impactos Ambientales": "Cambio en la seguridad vial",
+   "Impacto Ambiental Especifico": "Cambio en la seguridad vial"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Dimensión Económica",
+   "Elemento Ambiental": "Estructura de la propiedad",
+   "Impactos Ambientales": "Cambio en la estructura de la propiedad",
+   "Impacto Ambiental Especifico": "Cambio en la estructura de la propiedad"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Dimensión Económica",
+   "Elemento Ambiental": "Procesos Productivos y tecnológicos",
+   "Impactos Ambientales": "Cambio en actividades productivas del sector primario",
+   "Impacto Ambiental Especifico": "Cambio en actividades productivas del sector primario"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Dimensión Económica",
+   "Elemento Ambiental": "Mercado Laboral",
+   "Impactos Ambientales": "Cambio en la dinámica del empleo",
+   "Impacto Ambiental Especifico": "Cambio en la dinámica del empleo"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Dimensión Político Organizativa",
+   "Elemento Ambiental": "Generación o alteracion de conflictos sociales",
+   "Impactos Ambientales": "Generación de conflictos entre la institución, empresa y comunidad",
+   "Impacto Ambiental Especifico": "Generación de conflictos entre la institución, empresa y comunidad"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Tendencia de Desarrollo",
+   "Elemento Ambiental": "Gobierno ",
+   "Impactos Ambientales": "Cambio en la gestión de la administración municipal",
+   "Impacto Ambiental Especifico": "Cambio en la gestión de la administración municipal"
+ },
+ {
+   "Medio": "Socioeconomico",
+   "Componente": "Dimensión Cultural",
+   "Elemento Ambiental": "Valores y Prácticas Culturales",
+   "Impactos Ambientales": "Generación de conciencia ambiental en la población",
+   "Impacto Ambiental Especifico": "Generación de conciencia ambiental en la población"
+ }
+]
